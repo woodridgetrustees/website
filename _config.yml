@@ -6,7 +6,7 @@ title: Woodridge Estate
 description: |
   In the heart of Sandton
 owner: Woodridge Estate # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2025 # if migrating another site, the year of your first publish
 email: info@woodridge-estate.co.za
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://woodridge-estate.co.za" # the base hostname & protocol for your site
